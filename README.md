@@ -1,5 +1,5 @@
 # ToDo List [LIVE](https://hovoghazaryan.github.io/todo/)
-Small ToDo List with data saving
+Small ToDo List with data saving. Created only on JS
 ---
 ## Contributors
 
@@ -11,4 +11,4 @@ Small ToDo List with data saving
 
 © Hovhannes Ghazaryan
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE)
